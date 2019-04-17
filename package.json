@@ -1,0 +1,22 @@
+{
+    "name": "niudai",
+    "publisher": "niudai",
+    "displayName": "cozygreen",
+    "description": "a beautiful theme with the sky-like blue.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.33.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "skyblue",
+                "uiTheme": "vs",
+                "path": "./themes/skyblue-color-theme.json"
+            }
+        ]
+    }
+}
