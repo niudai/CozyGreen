@@ -8,6 +8,12 @@
 
 CozyGreen theme with a green background. You would find your eyes more comfortable with this theme.
 
+## Screenshot
+
+
+![Image]("https://raw.githubusercontent.com/niudai/cozygreen/master/images/docs/screenshot_1.png")
+
+
 ## Install
 
 press ctl/command + shift + p to launch the command palette then run
