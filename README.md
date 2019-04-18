@@ -11,7 +11,7 @@ CozyGreen theme with a green background. You would find your eyes more comfortab
 ## Screenshot
 
 
-![Image]("https://raw.githubusercontent.com/niudai/CozyGreen/master/images/docs/screenshot_1.png")
+![Image]("https://raw.githubusercontent.com/niudai/CozyGreen/tree/master/images/docs/screenshot_1.png")
 
 
 ## Install
