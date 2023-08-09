@@ -1,11 +1,11 @@
 {
-  "name": "WQW",
+  "name": "AKA",
   "runtime": "node/v16",
   "timeout": 60,
   "region": "US",
   "envs": [
-    "AKA",
-    "OYEA"
+    "HELLO",
+    "OKA"
   ],
-  "typescript": false
+  "typescript": true
 }
