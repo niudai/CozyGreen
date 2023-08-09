@@ -1,0 +1,11 @@
+{
+  "name": "limit22",
+  "runtime": "node/v16",
+  "timeout": 60,
+  "region": "US",
+  "envs": [
+    "HELLO",
+    "OYE"
+  ],
+  "typescript": true
+}
