@@ -1,0 +1,11 @@
+{
+  "name": "WQW",
+  "runtime": "node/v16",
+  "timeout": 60,
+  "region": "US",
+  "envs": [
+    "AKA",
+    "OYEA"
+  ],
+  "typescript": false
+}
