@@ -1,0 +1,8 @@
+{
+  "name": "AIE",
+  "runtime": "node/v16",
+  "timeout": 60,
+  "region": "US",
+  "envs": [],
+  "typescript": false
+}
